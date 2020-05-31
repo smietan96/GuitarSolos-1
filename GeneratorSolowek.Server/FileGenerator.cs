@@ -16,6 +16,29 @@ namespace GeneratorSolowek.Server
         public static int minFret;
         public static int maxFret;
 
+        public void IncrementNumberOfIterations() => numberOfIterations++;
+        public string GetPath()
+        {
+            return path;
+        }
+        public void SetMinFret(int _minFret)
+        {
+            minFret = _minFret;
+        }
+        public void SetMaxFret(int _maxFret)
+        {
+            maxFret = _maxFret;
+        }
+        public bool WrongFrets()
+        {
+            return minFret != 0 && maxFret != 0 && minFret >= maxFret ? true : false;
+        }
+
+        public void SetNumberOfIterations(int noi)
+        {
+            numberOfIterations = noi;
+        }
+
         public void CreateFile(IList<string[]> fretboard)          // Tworzy plik teksowy z wylosowana tabulatura             
         {
             using (StreamWriter sw = File.CreateText(path))
@@ -39,7 +62,7 @@ namespace GeneratorSolowek.Server
             }
         }
 
-        public void UpdateFile(string[] linesArray, IList<string[]> fretboard)
+        public void UpdateFile(string[] linesArray, ref IList<string[]> fretboard)
         {
             using (StreamWriter sw = File.CreateText(path))
             {
@@ -258,7 +281,7 @@ namespace GeneratorSolowek.Server
             return fretboard;
         }
 
-        public void InsertPickedNotes(IList<string[]> fretboard,
+        public void InsertPickedNotes(ref IList<string[]> fretboard,
             IList<Tuple<int,int>> pickedNotes, IList<int[]> scaleFrets)                    // Zamienia odpowiednie miejsca w tablicy wylosowanymi dzwiekami ze skali
         {
             var noteIndex = 0;

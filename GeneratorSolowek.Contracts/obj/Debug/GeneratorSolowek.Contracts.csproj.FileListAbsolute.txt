@@ -2,3 +2,8 @@ C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Contracts\bin\Debu
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Contracts\bin\Debug\GeneratorSolowek.Contracts.pdb
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Contracts\obj\Debug\GeneratorSolowek.Contracts.dll
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Contracts\obj\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Contracts\bin\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Contracts\bin\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Contracts\obj\Debug\GeneratorSolowek.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Contracts\obj\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Contracts\obj\Debug\GeneratorSolowek.Contracts.pdb

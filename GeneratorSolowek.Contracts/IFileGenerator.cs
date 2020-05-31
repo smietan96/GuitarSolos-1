@@ -11,9 +11,15 @@ namespace GeneratorSolowek.Contracts
     public interface IFileGenerator
     {
         [OperationContract]
+        void SetMinFret(int _minFret);
+        [OperationContract]
+        void SetMaxFret(int _maxFret);
+        [OperationContract]
+        bool WrongFrets();
+        [OperationContract]
         void CreateFile(IList<string[]> fretboard);          // Tworzy plik teksowy z wylosowana tabulatura
         [OperationContract]
-        void UpdateFile(string[] linesArray, IList<string[]> fretboard);
+        void UpdateFile(string[] linesArray, ref IList<string[]> fretboard);
         [OperationContract]
         Tuple<int, int> GetLastNote(string[] linesArray);
         [OperationContract]
@@ -23,8 +29,13 @@ namespace GeneratorSolowek.Contracts
         [OperationContract]
         IList<string[]> CreateEmptyTab();            // Tworzy tablice wypelniona "-"
         [OperationContract]
-        void InsertPickedNotes(IList<string[]> fretboard, IList<Tuple<int,int>> pickedNotes, IList<int[]> scaleFrets);                    // Zamienia odpowiednie miejsca w tablicy wylosowanymi dzwiekami ze skali
-
+        void InsertPickedNotes(ref IList<string[]> fretboard, IList<Tuple<int,int>> pickedNotes, IList<int[]> scaleFrets);                    // Zamienia odpowiednie miejsca w tablicy wylosowanymi dzwiekami ze skali
+        [OperationContract]
+        void SetNumberOfIterations(int noi);
+        [OperationContract]
+        string GetPath();
+        [OperationContract]
+        void IncrementNumberOfIterations();
         #region SKALE
         [OperationContract]
         IList<int[]> GetDMajorFrets();

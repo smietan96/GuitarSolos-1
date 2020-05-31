@@ -52,7 +52,13 @@
         <Button Grid.Column="3" Grid.Row="8" x:Name="clearBtnMax" 
                 Content="Wyczyść" Width="100" Margin="10,0,10,10" Click="clearBtnMax_Click" />
 
-        <RichTextBox Grid.Column="4" Grid.Row="2" x:Name="tabTextBox" Grid.RowSpan="3"/>
+        <RichTextBox Grid.Column="4" Grid.Row="2" x:Name="tabTextBox" Grid.RowSpan="3"
+                     FontFamily="Lucida Console" FontSize="14" Block.LineHeight="2" 
+                     HorizontalScrollBarVisibility="Auto" >
+            <FlowDocument PageWidth="1000">
+                <Paragraph/>
+            </FlowDocument>
+        </RichTextBox>
 
         <GroupBox Grid.Column="4" Grid.Row="7" Grid.RowSpan="2" Margin="0,0,0,10">
             <GroupBox.Header>
@@ -62,17 +68,14 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <Button Grid.Column="0" Grid.Row="0" Content="GENERUJ"
-                        x:Name="generateBtn" Margin="5"/>
+                        x:Name="generateBtn" Margin="5" Click="generateBtn_Click"/>
                 <Button Grid.Column="1" Grid.Row="0" Content="NASTĘPNE 4"
-                        x:Name="nextBtn" Margin="5"/>
-                <Button Grid.Column="2" Grid.Row="0" Content="COFNIJ 4"
-                        x:Name="backBtn" Margin="5"/>
+                        x:Name="nextBtn" Margin="5" Click="nextBtn_Click"/>
             </Grid>
         </GroupBox>
     </Grid>

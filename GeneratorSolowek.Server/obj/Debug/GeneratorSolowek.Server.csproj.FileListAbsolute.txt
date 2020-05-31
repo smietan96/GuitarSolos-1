@@ -7,3 +7,13 @@ C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\G
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csproj.CopyComplete
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.exe
 C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csprojAssemblyReference.cache
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csproj.CoreCompileInputs.cache
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.exe
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.exe.config
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.exe
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.pdb
+C:\Users\fsmietanka.AIUT\Documents\GitHub\GuitarSolos\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csproj.CopyComplete
