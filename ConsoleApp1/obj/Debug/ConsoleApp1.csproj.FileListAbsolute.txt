@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\bin\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\bin\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

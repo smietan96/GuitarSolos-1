@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.exe.config
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Server.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\bin\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.csproj.CopyComplete
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Server\obj\Debug\GeneratorSolowek.Server.pdb

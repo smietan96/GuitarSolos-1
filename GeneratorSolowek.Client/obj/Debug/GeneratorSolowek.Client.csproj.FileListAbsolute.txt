@@ -1,0 +1,17 @@
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\bin\Debug\GeneratorSolowek.Client.exe.config
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\bin\Debug\GeneratorSolowek.Client.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\bin\Debug\GeneratorSolowek.Client.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\App.g.cs
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client_MarkupCompile.cache
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client_MarkupCompile.lref
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\MainWindow.baml
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.g.resources
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.Properties.Resources.resources
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.exe
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\bin\Debug\GeneratorSolowek.Contracts.dll
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\bin\Debug\GeneratorSolowek.Contracts.pdb
+C:\Users\Filip\source\repos\GeneratorSolowek\GeneratorSolowek.Client\obj\Debug\GeneratorSolowek.Client.csproj.CopyComplete
